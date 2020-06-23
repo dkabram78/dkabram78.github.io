@@ -143,7 +143,8 @@ function update() {
 
 **HINT:** To call a Function, use the following syntax: `nameOfFunction(arguments)`
 
-**CODE:** Now, call the Function with increasing larger values. At what value does the box go off the right edge of the screen? 
+**CODE:** Now, call the Function with increasing larger values. At what value does the box go off the right edge of the 
+screen? 
 
 **CODE:** Try `moveBoxTo(boardWidth);`
 
@@ -370,7 +371,8 @@ function handleBoxClick() {
 
 **Hint #1**: To increase `positionX` by `10` we wrote: `positionX = positionX + 10;`. How can you increase `points` by `1`?
 
-# TODO 5: Speeding Up
+#
+TODO 5: Speeding Up
 
 This TODO has 3 steps that you will need to complete on your own. 
 
